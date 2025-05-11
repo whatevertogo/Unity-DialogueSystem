@@ -1,6 +1,6 @@
 # Unity Dialogue System Documentation
 
-[中文](README.CN_DialogueSystem.md)
+[中文](README.CN.md)
 
 ## System Introduction and Architecture
 
